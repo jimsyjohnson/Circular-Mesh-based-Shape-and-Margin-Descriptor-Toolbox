@@ -1,1 +1,2 @@
-# CMSMD
+CMSMD toolbox developed for shape, margin description and classification of object. CMSMD stands for Circular Mesh Shape based Shape and Margin Descriptor. This toolbox is written in Matlab and it has no external library dependencies which requires a very simple execution process. The base of the software is formed by a set of functions including a main procedure CMSMD.m.
+The boundary extracted image is given as input to the toolbox. The boundary is embedded into the dynamically created circular mesh, the labelling system of circular mesh represents and describes the boundary of the image in a well-mannered from and these representation is further used here for feature extraction followed by classification.
